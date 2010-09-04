@@ -1,0 +1,14 @@
+#! /bin/bash
+echo "Is it morining? Please answer yes or no"
+read timed
+echo $timed
+if test "$timed"="yes" 
+then
+    echo "good morning"
+elif test "$timed"="no" 
+then
+    echo "good afternoon"
+else 
+    echo "sorry,no correct input"
+fi
+exit 0

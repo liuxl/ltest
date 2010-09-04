@@ -1,0 +1,8 @@
+#! /bin/bash
+echo $*
+foo(){
+    echo $*
+    echo $1
+}
+echo $*
+foo $1

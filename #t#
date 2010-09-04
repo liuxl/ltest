@@ -1,0 +1,17 @@
+           the stemming language, the default is  'english'.   Possible
+              values:  danish dutch english finnish french german german2 hun-
+              garian italian  kraaij_pohlmann  lovins  norwegian  porter  por-
+              tuguese romanian russian spanish swedish turkish (pass 'none' to
+              disable stemming)
+
+       -h, --help
+              display this help and exit
+
+       -V, --version
+              output version information and exit
+
+       Please report bugs at: http://xapian.org/bugs
+
+
+
+xapian-omega 1.0.19               April 2010                    SCRIPTINDEX(1
